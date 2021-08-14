@@ -31,6 +31,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/kamisinha/kamisinha/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
 
