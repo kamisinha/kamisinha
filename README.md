@@ -2,8 +2,7 @@
 
 
 - 💬 Atualmente estudando javascript, html, css e python.
-- 📫 Pronouns: ela/dela
-- 🍜 17 yo
+- 🍜 17 anos.
 - 🍙 Português, Inglês e Japonês.
 
 
