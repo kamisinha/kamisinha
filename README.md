@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="kaworu-pitco" src="https://cutewallpaper.org/21/cute-blue-anime-girl/Cute-Anime-Girl-With-Blue-Hair-GIFs-Tenor.gif">
+  <img align="right" alt="kawo" src="https://gifs.alphacoders.com/gifs/by_tag/19974">
 
 </div>
   
